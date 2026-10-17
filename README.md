@@ -54,7 +54,7 @@ Weil ich mein eigenes System permanent im harten Alltagstest (Dogfooding) auditi
 
 Ich suche keine klassischen First-Level-Tickets oder theoretische Cloud-Architektur-Rollen. Ich suche die Speerspitze der **Sovereign & Embedded AI** – remote oder im Raum Saarland.
 
-Infrastruktur-Constraint: Da ich komplexe, dezentrale Agenten-Mesh-Netzwerke auf Kernel- und Protokollebene debugge, sind die mengenmäßigen Beschränkungen kommerzieller Tarife (Pro-/Max-Limits) für meine Loops unbrauchbar. Ich suche Partner, die den strategischen Wert meiner Ökosysteme erkennen und mir die nötige Enterprise-Infrastruktur (unlimitierter, hochfrequenter API-Zugriff auf Opus 5.5 / Fable 5.1 sowie zukünftige Spitzenmodelle) zur Verfügung stellen, um diese Systeme direkt für eure Hardware zu finalisieren
+Infrastruktur-Constraint: Da ich komplexe, dezentrale Agenten-Mesh-Netzwerke auf Kernel- und Protokollebene debugge, stoßen standardmäßige API-Quotas kommerzieller Tarife (Pro-/Max-Limits) bei hochfrequenten Loops sofort an ihre Grenzen. Für die Weiterentwicklung und Finalisierung dieser Systeme auf eurer Hardware ist eine entsprechende Enterprise-Infrastruktur (Schnittstellen-Zugriff auf Opus 5.5 / Fable 5.1 ohne künstliche Drosselung) eine technische Grundvoraussetzung, um diese Systeme direkt für eure Hardware zu finalisieren.
 
 Wenn Ihr Team humanoide Roboter, kognitive Plattformen oder Air-Gapped Industrie-Knoten baut und jemanden braucht, der die Software-Visions-Blase sicher auf den physikalischen Ziel-Chip bringt, bin ich Ihr Mann. Ich bringe meine drei Core-Infrastrukturen als einsatzbereites geistiges Eigentum direkt in Ihr Ökosystem ein.
 
