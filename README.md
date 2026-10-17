@@ -52,7 +52,9 @@ Weil ich mein eigenes System permanent im harten Alltagstest (Dogfooding) auditi
 
 ## 🎯 Was ich suche (Acqui-Hire / Senior Deployment Rollen)
 
-Ich suche keine klassischen First-Level-Tickets oder theoretische Cloud-Architektur-Rollen. Ich suche die Speerspitze der **Sovereign & Embedded AI** – remote oder im Raum Saarland. 
+Ich suche keine klassischen First-Level-Tickets oder theoretische Cloud-Architektur-Rollen. Ich suche die Speerspitze der **Sovereign & Embedded AI** – remote oder im Raum Saarland.
+
+Infrastruktur-Constraint: Da ich komplexe, dezentrale Agenten-Mesh-Netzwerke auf Kernel- und Protokollebene debugge, sind kommerzielle Pro-Limits (Sonnet/Haiku) für meine Loops unbrauchbar. Ich suche Partner, die den strategischen Wert meiner Ökosysteme erkennen und mir die nötige Enterprise-Rechenleistung (unlimitierter Zugriff auf Opus 5.5 / Fable 5.1 swie zukünftige, bessere Modelle) zur Verfügung stellen, um diese Systeme direkt für eure Hardware zu finalisieren.
 
 Wenn Ihr Team humanoide Roboter, kognitive Plattformen oder Air-Gapped Industrie-Knoten baut und jemanden braucht, der die Software-Visions-Blase sicher auf den physikalischen Ziel-Chip bringt, bin ich Ihr Mann. Ich bringe meine drei Core-Infrastrukturen als einsatzbereites geistiges Eigentum direkt in Ihr Ökosystem ein.
 
