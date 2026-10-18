@@ -4,7 +4,7 @@
 
 Ich bin Fachinformatiker für Systemintegration (FiSi) aus dem Saarland. Ich schreibe keine akademischen Whitepaper über theoretische Cloud-Modelle – ich baue die schockresistente, air-gapped Infrastruktur, die Large Language Models und RAG-Systeme stabil, asynchron und sicher auf echte Edge-Hardware (ARM, NPUs, Handhelds) bringt.
 
-In meinem privaten Homelab betreibe ich ein heterogenes Mesh-Netzwerk aus autonomen KI-Agenten auf modifizierten OpenMinis (Android Custom-ROMs mit Root/Shizuku und Linux-Knoten). Mein Fokus liegt auf digitaler Souveränität: **KI unabhängig von Big-Tech-Serverfarmen, lokal optimiert, asynchron gekoppelt und kryptografisch gehärtet**.
+In meinem privaten Homelab betreibe ich ein heterogenes Mesh-Netzwerk aus autonomen KI-Agenten auf Samsung Smartphones (Android Custom-ROMs mit Root/Shizuku und Linux-Knoten) mit modifiziertem Agentic Harnes "OpenMinis" [ https://github.com/OpenMinis/OpenMinis ]. Mein Fokus liegt auf digitaler Souveränität: **KI unabhängig von Big-Tech-Serverfarmen, lokal optimiert, asynchron gekoppelt und kryptografisch gehärtet**.
 
 Ich kenne nicht jede CLI-Option von Docker auswendig. Ich nutze LLMs hocheffizient als meinen Code-Monkey für die reine Syntax. Meine Stärke liegt in der Systemarchitektur und der logischen Absicherung. Ich weiß, wie man fehlerhafte SDKs in Containern isoliert, wie man asynchrone Kommunikationsschleifen über Netzwerk-Klingeln baut und wie man RAG-Systeme framework-agnostisch aufsetzt. Den Code dazu lasse ich die KI schreiben, aber ich kontrolliere, auditiere und strukturiere das System nach harten Enterprise- und Security-Vorgaben.
 
